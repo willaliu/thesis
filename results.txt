@@ -2,4 +2,4 @@ line 1
 line 2
 line 3 by me
 line 4 by me
-line 5 by me
+line 5 merge
